@@ -5,7 +5,7 @@ Glyphs imported from Arev fonts are (c) Tavmjong Bah (see below)
 Bitstream Vera Fonts Copyright
 ------------------------------
 
-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is
+Copyright (c) 2026 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is
 a trademark of Bitstream, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -52,7 +52,7 @@ org.
 Arev Fonts Copyright
 ------------------------------
 
-Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.
+Copyright (c) 2026 by Tavmjong Bah. All Rights Reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of the fonts accompanying this license ("Fonts") and
@@ -107,7 +107,7 @@ Math extensions done by B. Jackowski, P. Strzelczyk and P. Pianowski
 Letters imported from Euler Fraktur from AMSfonts are (c) American
 Mathematical Society (see below).
 Bitstream Vera Fonts Copyright
-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera
+Copyright (c) 2026 by Bitstream, Inc. All Rights Reserved. Bitstream Vera
 is a trademark of Bitstream, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

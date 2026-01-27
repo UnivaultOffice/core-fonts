@@ -1,4 +1,4 @@
-Copyright 2012 The Caladea Project Authors (https://github.com/huertatipografica/Caladea)
+Copyright 2026 The Caladea Project Authors (https://github.com/huertatipografica/Caladea)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -6,7 +6,7 @@ http://scripts.sil.org/OFL
 
 
 -----------------------------------------------------------
-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2026
 -----------------------------------------------------------
 
 PREAMBLE
